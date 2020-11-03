@@ -21,7 +21,7 @@ export const Intro = () => {
           </Button>
         </Details>
         <Thumbnail>
-          <img src={dev} alt="I’m John and I’m a JAMStack engineer!" />
+          <img src={dev} alt="I’m Reese and I'm a second year student studying IT and Application Development!" />
         </Thumbnail>
       </IntroWrapper>
     </Wrapper>

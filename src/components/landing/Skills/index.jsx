@@ -12,13 +12,12 @@ export const Skills = () => {
     <Wrapper id="about">
       <SkillsWrapper as={Container}>
         <Thumbnail>
-          <img src={dev} alt="I’m John and I’m a Backend & Devops engineer!" />
+          <img src={dev} alt="I’m Reese!" />
         </Thumbnail>
         <Details theme={theme}>
-          <h1>More about me</h1>
+          <h1>More about me!</h1>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-            industry’s standard dummy.
+            I currently attend Central Queensland University and have knowledge of various coding languages such as C#, Java, ASP.NET, Gatsby and Python.
           </p>
           <Button as={AnchorLink} href="#contact">
             Hire me
