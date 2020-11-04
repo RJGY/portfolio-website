@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\components",
+    "\\components\\theme",
+    "\\components\\theme\\Footer",
+    "\\components\\theme\\Header",
+    "\\components\\theme\\Header\\Hamburger",
+    "\\data",
+    "\\hooks",
+    "\\pages",
+    "\\providers"
+  ],
+  "SelectedNode": "\\providers\\ThemeProvider.jsx",
+  "PreviewInSolutionExplorer": false
+}
