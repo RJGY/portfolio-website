@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets\\illustrations",
+    "\\assets\\thumbnail",
     "\\components",
-    "\\components\\theme",
-    "\\components\\theme\\Footer",
-    "\\components\\theme\\Header",
-    "\\components\\theme\\Header\\Hamburger",
-    "\\data",
-    "\\hooks",
-    "\\pages",
-    "\\providers"
+    "\\components\\common",
+    "\\components\\common\\Button",
+    "\\components\\common\\Card",
+    "\\components\\common\\Input",
+    "\\components\\common\\SEO",
+    "\\components\\landing"
   ],
-  "SelectedNode": "\\providers\\ThemeProvider.jsx",
+  "SelectedNode": "\\components\\common\\Input\\index.js",
   "PreviewInSolutionExplorer": false
 }
